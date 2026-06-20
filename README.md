@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a Data Science and Informatics graduate passionate about building intelligent, data-driven solutions that bridge the gap between complex models and real-world impact. I specialise in machine learning, deep learning, statistical modeling, and production-aware AI engineering — from preparing high-quality datasets and training models to deploying them as APIs, dashboards, and scalable applications.
+I'm a Data Science and Systems graduate passionate about building intelligent, data-driven solutions that bridge the gap between complex models and real-world impact. I specialise in machine learning, deep learning, statistical modeling, and production-aware AI engineering — from preparing high-quality datasets and training models to deploying them as APIs, dashboards, and scalable applications.
 
 My academic research focused on **handling extreme class imbalance and class overlap in binary classification on big data**, giving me deep expertise in experiment design, model evaluation, and rigorous statistical analysis.
 
